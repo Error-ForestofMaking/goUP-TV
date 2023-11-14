@@ -1,0 +1,27 @@
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\bin\Debug\goUP TV.exe.config
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\bin\Debug\goUP TV.exe
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\bin\Debug\goUP TV.pdb
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.csproj.AssemblyReference.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.main.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.Properties.Resources.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.csproj.GenerateResource.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.csproj.CoreCompileInputs.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.exe
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.pdb
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.smartbar.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.offscreen.resources
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\bin\Debug\goUP TV.exe.config
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\bin\Debug\goUP TV.exe
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\bin\Debug\goUP TV.pdb
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.csproj.AssemblyReference.cache
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.error.resources
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.offscreen.resources
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.smartbar.resources
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.info.resources
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.main.resources
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.Properties.Resources.resources
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.csproj.GenerateResource.cache
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.csproj.CoreCompileInputs.cache
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.exe
+Y:\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP TV.pdb
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\goUP TV\goUP TV\obj\Debug\goUP_TV.timer.resources
