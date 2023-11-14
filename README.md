@@ -35,4 +35,7 @@
 
 ### 그림 도움말
 - 거실 설치 예시
-![goup-tv-y-1](https://github.com/Error-ForestofMaking/goUP-TV/assets/128959567/0dd5b6a7-207c-4595-9d91-2253c1ebd44e)
+![goup-tv-y-1](https://github.com/Error-ForestofMaking/goUP-TV/assets/128959567/49b423e3-dca5-4a99-831b-e9172d84f158)
+
+- 안방 설치 에시
+![goup-tv-y-2](https://github.com/Error-ForestofMaking/goUP-TV/assets/128959567/ae4135f1-d97f-4ba9-89c7-b7b975f427b5)
